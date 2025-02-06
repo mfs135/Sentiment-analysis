@@ -1,6 +1,9 @@
-# Sentiment Analysis on IMDB Movie Reviews
-
 ##  Sentiment Analysis on IMDB Movie Reviews
+
+<div align="center">
+<img height="300" width="700" src="https://pianalytix.com/wp-content/uploads/2020/11/Sentimental-Analysis-of-IMDB-movie-reviews.jpg">
+
+</div>
 
 ### Introduction
 In this workshop, sentiment analysis was performed on movie reviews collected from **IMDB**. The dataset consists of reviews for the following movies:
